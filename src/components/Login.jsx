@@ -109,8 +109,7 @@ function Login() {
             bgSize="cover"p={'3%'}>
                 <Image src='https://carta.v-card.es/assets/images/user/login.png'></Image>
             </Box>
-
-
+            
             </HStack>
         </VStack>
     </Stack>
